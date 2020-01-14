@@ -1,0 +1,12 @@
+#pragma once
+#include "coordinate.h"
+#include "entity.hpp"
+#include "exceptions.h"
+#include "game.h"
+#include "image.h"
+#include "hero.h"
+#include "InputFiles.h"
+#include "mapp.h"
+#include "object.h"
+#include "tile.h"
+#include "vec2D.h"
